@@ -1,0 +1,7 @@
+step1: start
+step2: input a,b
+step3: do sum = a+b
+step4: print sum
+step5: end
+
+

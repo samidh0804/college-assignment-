@@ -1,0 +1,6 @@
+step1: start
+step2: take input sum = 0, n , i=0
+step3: if i<n then move further for second condition and if not then go for step5
+step4: if i%2 == 0 then do the sum = sum +i and go for i=i+1 otherwise only go for i=i+1
+step5: print sum
+step6: end
